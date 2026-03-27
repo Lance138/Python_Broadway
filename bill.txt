@@ -1,0 +1,4 @@
+Product 	Price 	Quantity 	total
+coke	30	3.0	90.0
+fanta	30	5.0	150.0
+Total = 240.0
